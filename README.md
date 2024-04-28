@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <img src='https://pzocl7fdia3rn2sb4b3irmqg5a0skjww.lambda-url.us-east-1.on.aws/'/>
 
 <a href="https://sncaecg5ngawieiuhj2kzsnp5q0rdyzg.lambda-url.us-east-1.on.aws" target="_blank">
-    <img src="https://github.com/alarichadef/alarichadef/assets/12270742/1e379e17-35ab-46b0-b41b-e07bc08c779c" alt="Next song">
+    <img src="https://github.com/alarichadef/alarichadef/assets/12270742/3c3afc83-7e82-4355-b55a-433b9f57a2ec" alt="Next song">
 </a>
